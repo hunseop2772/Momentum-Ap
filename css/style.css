@@ -14,4 +14,7 @@ img {
     /* opacity:95%; */
     }
 
-  
+  body{
+    color: white;
+    border: 100px;
+  }
